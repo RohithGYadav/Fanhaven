@@ -44,6 +44,7 @@ Follow these steps to set up the project locally:
 1. Clone the Repository
 
 git clone https://github.com/RohithGYadav/fanhaven.git
+
 cd fanhaven
 
 2. Set Up Environment Variables
