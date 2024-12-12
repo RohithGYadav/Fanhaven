@@ -43,7 +43,6 @@ Follow these steps to set up the project locally:
 
 1. Clone the Repository
 
-```bash
 git clone https://github.com/RohithGYadav/fanhaven.git
 cd fanhaven
 
