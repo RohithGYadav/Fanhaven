@@ -10,7 +10,6 @@ Fanhaven is a modern social media platform built using **Next.js** and various p
 - **Search Functionality**: Quickly search for users by their name or profile data.
 - **Post Interactions**: Like and dislike posts, and view individual posts with additional details.
 - **Cloudinary Integration**: User images and media files are stored using **Cloudinary** for seamless file management and scalability.
-- **Responsive Design**: Built with **TailwindCSS** for a clean, mobile-responsive UI.
 
 ### Tech Stack:
 - **Frontend**: Next.js, React.js, TailwindCSS, React Icons
@@ -70,4 +69,6 @@ Create an account on Cloudinary.
 Obtain your Cloud Name, API Key, and API Secret.
 Set the corresponding environment variables in your .env.local file as described above.
 
-
+Future Updates
+Pay Functionality: Implementing payment integration using Razorpay for secure and seamless transactions.
+(Currently, clicking the "Pay" button works as a placeholder for successful payment.)
