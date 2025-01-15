@@ -62,13 +62,13 @@ This will start the application at http://localhost:3000.
 5. Set Up MongoDB
 Ensure that MongoDB is running locally or use a MongoDB Atlas cluster. MongoDB collections will be automatically created based on the Mongoose models defined in the models/ directory.
 
-Cloudinary Integration
+Cloudinary Integration:
 Fanhaven uses Cloudinary to handle image uploads (such as profile and cover photos) and media content for posts. To use Cloudinary:
 
 Create an account on Cloudinary.
 Obtain your Cloud Name, API Key, and API Secret.
 Set the corresponding environment variables in your .env.local file as described above.
 
-Future Updates
+Future Updates:
 Pay Functionality: Implementing payment integration using Razorpay for secure and seamless transactions.
 (Currently, clicking the "Pay" button works as a placeholder for successful payment.)
